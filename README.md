@@ -138,6 +138,8 @@ response:
                      'u_salary_5_years': salary * 4.2}
           }
 
+____________________________
+HW 1 дз https://github.com/Ilyaag/Postman_Group_29/blob/main/HW_1.json
 
 HW 2 
 
